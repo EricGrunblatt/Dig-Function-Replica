@@ -1,0 +1,10 @@
+QUESTION SECTION:
+www.cnn.com. IN A
+
+ANSWER SECTION:
+www.cnn.com. 30 IN A 151.101.211.5
+www.cnn.com. 300 IN CNAME cnn-tls.map.fastly.net.
+cnn-tls.map.fastly.net. 30 IN A 151.101.211.5
+
+Query time: 148 msec
+WHEN:  02/20/2023 20:55:18
